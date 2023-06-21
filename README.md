@@ -69,4 +69,8 @@ Answer the prompt questions: Click enter to move to the next question:
 
 ## If you have questions about this project, you can email :
 
-Email : s..k...@gmail.com
+E-mail : s..k...@gmail.com
+
+<hr>
+
+## Link to the demo video: https://drive.google.com/file/d/1_MngoYVuUoajfopa64ebnaGLiYCCR_gV/view.
