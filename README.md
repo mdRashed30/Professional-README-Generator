@@ -1,56 +1,72 @@
+# Professional README Generator
 
-Video Test for Readme Generator
+<hr>
 
+## TABLE OF CONTENTS
 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contribution](#contributions)
+- [Test](#test)
+- [Questions](#questions)
 
-##TABLE OF CONTENTS
-
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contribution](#contribution)
-* [Test](#test)
-* [Questions](#questions)
+<hr>
 
 ## Description:
 
-This is a project that makes readMe files for all the new projects that I'll build
+This README Generator is an intuitive Node.js application designed to simplify the process of creating professional and well-structured README.md files.
 
-## Installation: 
+<hr>
 
-"npm i
+## Installation:
+
+npm install
+
+<hr>
 
 ## License:
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-
-
+<hr>
 
 ## Usage:
 
-MIT Open Source
+Answer the prompt questions: Click enter to move to the next question:
 
+<br>
+-- Please enter the title of your project? <br>
+-- Please enter your email address: <br>
+-- Please enter your Github username: <br>
+-- Please enter a description of your project : <br>
+-- Please give instructions for the installation of your project: <br>
+-- Please provide instructions for usage: <br>
+-- What are the any license requirements for using your project? <br>
+-- Please give any instructions for contributing to your project: <br>
+-- Please describe any tests you ran on your project:
 
-## Contributors to this project:
+<hr>
 
-Tag me on twitter!
+## Contribution to this project:
 
+- If you would like to contribute to this project reach out to me.
+
+  <hr>
 
 ## Tests that were conducted:
 
-N/A
+- Open the terminal and run 'node index.js' Answer the prompts and view the preview of the 'generateREADME.md' file in the 'sample' folder
 
+  <hr>
 
-## This project was created by 
+## This project was created by
 
-m1234
+-- Md
 
+<hr>
 
 ## If you have questions about this project, you can email :
 
-emailmeI'mloney@gmail.com
-
-
-
+Email : s..k...@gmail.com
